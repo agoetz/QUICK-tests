@@ -1,0 +1,14 @@
+>>> Running on host  <<<
+ >> Benchmark run-5-morphine
+ >> launch iteration 1
+/scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc/1 /scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc
+/scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc
+ >> launch iteration 2
+/scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc/2 /scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc
+/scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc
+ >> launch iteration 3
+/scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc/3 /scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc
+/scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc
+ >> launch iteration 4
+/scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc/4 /scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc
+/scratch/agoetz/job_55216/QUICK-tests/benchmarks/QUICK-25-dev-ebc007d8/MI300A-Cosmos/htc

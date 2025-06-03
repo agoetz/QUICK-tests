@@ -1,0 +1,9 @@
+>>> Running on host x8000c2s3b0n0 <<<
+
+Benchmark morphine
+ 1 >> Elapsed time = 47 seconds =      0.8 minutes
+ 2 >> Elapsed time = 48 seconds =      0.8 minutes
+ 3 >> Elapsed time = 38 seconds =      0.6 minutes
+ 4 >> Elapsed time = 43 seconds =      0.7 minutes
+ 5 >> Elapsed time = 44 seconds =      0.7 minutes
+ >> Average elapsed time = 44 seconds =      0.7 minutes
