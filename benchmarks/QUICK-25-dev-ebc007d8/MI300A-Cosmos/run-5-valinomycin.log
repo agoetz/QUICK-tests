@@ -1,0 +1,9 @@
+>>> Running on host x8000c2s3b0n0 <<<
+
+Benchmark valinomycin
+ 1 >> Elapsed time = 149 seconds =      2.5 minutes
+ 2 >> Elapsed time = 150 seconds =      2.5 minutes
+ 3 >> Elapsed time = 150 seconds =      2.5 minutes
+ 4 >> Elapsed time = 149 seconds =      2.5 minutes
+ 5 >> Elapsed time = 150 seconds =      2.5 minutes
+ >> Average elapsed time = 149 seconds =      2.5 minutes
